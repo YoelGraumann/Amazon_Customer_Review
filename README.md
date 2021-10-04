@@ -2,7 +2,7 @@
 
 
 # Amazon Customer Review Project
-In this projected I analyzed data from the Amazon Web Service. 
+In this project I analyzed data from the Amazon Web Service. 
 I used Logistic Regression, Naive Bayes, Stochastic Gradient Descent and more during my work on this project.
 This project was written in Python, Using Google Colab.
 ## Project Overview:
