@@ -13,6 +13,11 @@ This project could be split into 4 main parts:
 * Using the Idea of mini batches in order to analyze data when memory is finite. 
 
 
+### Contacts
 
+
+- 👨‍💻 My Selected Data Science Projects are available at **[My Portfolio](https://yoelgraumann.github.io/Yoel_portfolio/)**
+
+- 📫 How to reach me [LinkedIn](linkedin.com/in/yoel-graumann-b483431ba)
 
 
